@@ -1,12 +1,12 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Musayev Ilhomjon</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Muhammad Xolmuhammadov</h1>
 
 <h3>Full stack web developer in Uzbekistan </h3>
 
 <p>
-    <a href="https://github.com/IlhomjonMusayev">
-        <img alt="Follow Ilhom Musayev" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
+    <a href="https://github.com/Muhammadsodiqq">
+        <img alt="Follow Muhammad" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
-    <a href="https://t.me/ilhomjonmusayev">
+    <a href="https://t.me/Muhammadd_ev">
         <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
     </a>
 </p>
@@ -16,11 +16,9 @@
     
 ##  My social networks
 
-<a href="https://instagram.com/ilhomjonmusayev1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/ilhomjonmusayev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/musayevilhomjon1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ilhomjon-musayev-4461081bb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/IlhomjonMusayev/"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://instagram.com/muhammad__zubayr__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/Muhammadd_ev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/in/muhammad-xolmuhammedov-62a11a20b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
 
@@ -41,8 +39,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhomMusayev&langs_count=8)](https://github.com/IlhomMusayev/github-readme-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhomMusayev&show_icons=true&theme=dark)
 
 
 <br>
