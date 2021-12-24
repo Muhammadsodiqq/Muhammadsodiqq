@@ -2,14 +2,6 @@
 
 <h3>Full stack web developer in Uzbekistan </h3>
 
-<p>
-    <a href="https://github.com/Muhammadsodiqq">
-        <img alt="Follow Muhammad" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
-    </a>
-    <a href="https://t.me/Muhammadd_ev">
-        <img alt="Follow Telegram channel" src="https://img.shields.io/static/v1?label=Follow&message=Telegram-Channel&style=for-the-badge&color=4A90E2&labelColor=222222" />
-    </a>
-</p>
     
 <br>
 
