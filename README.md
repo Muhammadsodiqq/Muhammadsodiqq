@@ -1,4 +1,4 @@
-<a href="https://t.me/Muhammadd_ev"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
+<a href="https://t.me/Muhammadd_ev"><img src="https://github.com/wahid-d/wahid-d/blob/main/34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png?raw=true" align="right" height="200"/></a>
 
 # Hi there, I'm Muhammad 👋
 
