@@ -24,7 +24,7 @@
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp;  `.jsx` | `.php` | `.html` | `.css` | `.js`
-- 🛢 &nbsp; SqlServer | PostgreSql
+- 🛢 &nbsp; SqlServer | PostgreSql | Mongo Db
 - ⚙️ &nbsp; Git | Bash |  Github Actions
 
 <br/>
