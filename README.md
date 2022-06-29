@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad 👋
 
-> A software engineer building awesome web back/front stuff using Javascript/Node-js tech-stack at `Najot ta'lim`. A back-end developer  `Pixer_uz` .
+> A software engineer building awesome web back/front stuff using Javascript/Node-js tech-stack at `Najot ta'lim`. A back-end developer  `E-invoice` .
 <br/><br/><br/>
 
 <p align="end">
